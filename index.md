@@ -4,12 +4,12 @@ I am a 2nd year masters student in Computer Science at UMass Amherst. I work on 
 
 ## Major Projects
 
++ [Visual Question Answering for Relational Reasoning ](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/maluuba-figureqa-visual.pdf")
 + [ A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/A%20Review%20of%20Multi-Modal%20Emotion%20Recognition.pdf " A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing")
 + [Exploring Sophisticated Loss Functions for Early Prediction in Cascaded CNNs](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Exploring%20Sophisticated%20Loss%20Functions%20for%20Early.pdf "Exploring Sophisticated Loss Functions for Early Prediction in Cascaded CNNs")
 + [ Minority Report : Crime Rate Prediction using Neighborhood and Census Information](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Minority%20Report.pdf " Minority Report : Crime rate prediction using neighborhood and census information")
 + [Stage-wise Non-uniform Regularization for Cascade Classifiers](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Stage-wise%20Non-uniform%20Regularization%20for%20Cascade.pdf "Stage-wise Non-uniform Regularization for Cascade Classifiers")
 + [Utilizing SLAM and Adaptive Gripping Techniques for Material Handling Systems](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Utilizing%20SLAM%20and%20Adaptive%20Gripping%20Techniques%20for%20Material%20Handling%20Systems.pdf "Utilizing SLAM and Adaptive Gripping Techniques for Material Handling Systems")
-+ [Visual Question Answering for Relational Reasoning ](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/maluuba-figureqa-visual.pdf")
 
 ## Other
 
