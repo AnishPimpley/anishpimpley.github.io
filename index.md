@@ -26,3 +26,7 @@ We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model
 ## Misc
 
 I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. Yes, there is a theme here. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.
+
+```
+Contact me : apimpley.cs.umass.edu
+```
