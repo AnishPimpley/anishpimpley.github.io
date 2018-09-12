@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+title: [Anish Yatin Pimpley]
+description: [Personal website]
+show_downloads: ["true"]
+github:
+  repository_url: https://github.com/AnishPimpley
