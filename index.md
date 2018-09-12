@@ -1,6 +1,6 @@
 # Anish Yatin Pimpley
 
-I am a 2nd year masters student in Computer Science at UMass Amherst. I work on problems in the broad area of Machine Learning and related fields. I am however, keenly interested in the Deep Learning and Computer Vision sub-domains.
+I am a 2nd year masters student in Computer Science at UMass Amherst with ~2 years of prior industry experience. I work on problems in the broad area of Machine Learning and related fields. I am however, keenly interested in the Deep Learning and Computer Vision sub-domains.
 
 ## Major Projects
 
