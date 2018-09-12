@@ -18,3 +18,7 @@ We convert rough hand drawn images of full simulink diagrams and convert them to
 We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model and used classical vision, topological, density and connectivity properties to extract the graphical structure and flow from the image.
 ##### A sneak peek :
 ![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif)
+
+## Misc
+
+I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. Yes, there is a theme here. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.
