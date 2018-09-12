@@ -1,6 +1,13 @@
+[Github Profile](https://github.com/AnishPimpley).
+[Resume](https://anishpimpley.github.io/media/resume_sept_18.pdf).
+[Linkedin](https://www.linkedin.com/in/anishpimpley/).
+
+
 # About me
 
-I am a 2nd year masters student in Computer Science at UMass Amherst with ~2 years of prior industry experience. I work on problems in the broad area of Machine Learning and related fields. I am however, keenly interested in the Deep Learning and Computer Vision sub-domains.
+> I am a 2nd year masters student in Computer Science at UMass Amherst with ~2 years of prior industry experience. 
+>
+> I work on problems in the broad area of Machine Learning and related fields. I am however, keenly interested in the Deep Learning and Computer Vision sub-domains.
 
 ## Major Projects
 
