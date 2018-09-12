@@ -1,5 +1,7 @@
 [Github Profile](https://github.com/AnishPimpley).
+
 [Resume](https://anishpimpley.github.io/media/resume_sept_18.pdf).
+
 [Linkedin](https://www.linkedin.com/in/anishpimpley/).
 
 
