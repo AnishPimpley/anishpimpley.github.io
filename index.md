@@ -26,8 +26,10 @@ We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model
 
 ## Misc
 
-I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.        
+I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.    
+I am fascinated by all sorts of meta information, which doesn't help my case of going down random internet rabbit holes.
 <details>
+ <summary>related media</summary>
 
 ![My best cooked meals yet](https://anishpimpley.github.io/media/Cooking.jpg)     
 
