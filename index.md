@@ -28,21 +28,9 @@ We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model
 
 I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.    
 I am fascinated by all sorts of meta information, which doesn't help my case of going down random internet rabbit holes.
-<details>
- <summary>related media</summary>
 
-![My best cooked meals yet](https://anishpimpley.github.io/media/Cooking.jpg)     
+[Hobbies media page](./media.html).
 
-![My tame kayaking adventures](https://anishpimpley.github.io/media/Kayaking.jpg)
-
-  
- Shitty guitar | Shitty Drums
------------- | -------------
-![An old guitar video](https://i.ytimg.com/vi/ac0aDCcUO94/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB7yiy5iPeIEQBwcE-Wc74ZKwfstg) | ![My Drums ain't much better either](https://i.ytimg.com/vi/dsTagAHo3T4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBvsGZZqxbqf0FpvvkFKktW8ed7yQ)
-[Video](https://www.youtube.com/watch?v=ac0aDCcUO94) | [Video](https://www.youtube.com/watch?v=dsTagAHo3T4&t=9s)
-
-
-</details>.
 
 ```
 Contact me : apimpley.cs.umass.edu
