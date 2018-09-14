@@ -25,8 +25,16 @@ We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model
 
 ## Misc
 
-I spend most of my leisure time cooking, trying new cuisines or watching cooking videos.<details>![my best cooked meals yet](https://anishpimpley.github.io/media/Cooking.jpg)</details> On other occasions, I am not-so-successfully trying to improve my guitar skills<details>[![Watch the video](https://i9.ytimg.com/vi_webp/ac0aDCcUO94/mqdefault.webp?sqp=CLDI7NwF&rs=AOn4CLB1dPNC_J5x3mHaLUbQfUEULhoGJw)](https://www.youtube.com/watch?v=ac0aDCcUO94)</details> 
-and looking for excuses to go kayaking <details> ![ My tame kayaking adventures](https://anishpimpley.github.io/media/Kayaking.jpg)</details>.
+I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.        
+<details>
+
+![my best cooked meals yet](https://anishpimpley.github.io/media/Cooking.jpg)     
+
+![ My tame kayaking adventures](https://anishpimpley.github.io/media/Kayaking.jpg)
+
+[![An old guitar video](https://i9.ytimg.com/vi_webp/ac0aDCcUO94/mqdefault.webp?sqp=CLDI7NwF&rs=AOn4CLB1dPNC_J5x3mHaLUbQfUEULhoGJw)](https://www.youtube.com/watch?v=ac0aDCcUO94)[![My Drums ain't much better either](https://i9.ytimg.com/vi/dsTagAHo3T4/hqdefault.jpg?sqp=CJTi7NwF&rs=AOn4CLDPhsWCjHPhlw3Uf5vxI9v6Ytk7WQ)](https://www.youtube.com/watch?v=dsTagAHo3T4&t=9s)
+
+</details>.
 
 ```
 Contact me : apimpley.cs.umass.edu
