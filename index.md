@@ -20,13 +20,12 @@
 #### Hand-drawn images to Simulink programs
 We convert rough hand drawn images of full simulink diagrams and convert them to full working Simulink models in machine. I worked on the exraction, detection and classification part of the pipeline.      
 We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model and used classical vision, topological, density and connectivity properties to extract the graphical structure and flow from the image.
-##### A sneak peek :
-![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif)
+  ###### A sneak peek :
+  ![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif)
 
 ## Misc
 
-I spend most of my leisure time cooking, trying new cuisines or watching cooking videos.<details>![my best cooked meals yet](https://anishpimpley.github.io/media/Cooking.jpg)</details>
-On other occasions, I am not-so-successfully trying to improve my guitar skills<details>[![Watch the video](https://i9.ytimg.com/vi_webp/ac0aDCcUO94/mqdefault.webp?sqp=CLDI7NwF&rs=AOn4CLB1dPNC_J5x3mHaLUbQfUEULhoGJw)](https://www.youtube.com/watch?v=ac0aDCcUO94)</details> 
+I spend most of my leisure time cooking, trying new cuisines or watching cooking videos.<details>![my best cooked meals yet](https://anishpimpley.github.io/media/Cooking.jpg)</details> On other occasions, I am not-so-successfully trying to improve my guitar skills<details>[![Watch the video](https://i9.ytimg.com/vi_webp/ac0aDCcUO94/mqdefault.webp?sqp=CLDI7NwF&rs=AOn4CLB1dPNC_J5x3mHaLUbQfUEULhoGJw)](https://www.youtube.com/watch?v=ac0aDCcUO94)</details> 
 and looking for excuses to go kayaking <details> ![ My tame kayaking adventures](https://anishpimpley.github.io/media/Kayaking.jpg)</details>.
 
 ```
