@@ -33,7 +33,12 @@ I spend most of my leisure time cooking, trying new cuisines or watching cooking
 
 ![My tame kayaking adventures](https://anishpimpley.github.io/media/Kayaking.jpg)
 
-[![An old guitar video](https://i9.ytimg.com/vi_webp/ac0aDCcUO94/mqdefault.webp?sqp=CLDI7NwF&rs=AOn4CLB1dPNC_J5x3mHaLUbQfUEULhoGJw)](https://www.youtube.com/watch?v=ac0aDCcUO94)[![My Drums ain't much better either](https://i.ytimg.com/vi/dsTagAHo3T4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBvsGZZqxbqf0FpvvkFKktW8ed7yQ)](https://www.youtube.com/watch?v=dsTagAHo3T4&t=9s)
+  
+ Shitty guitar | Shitty Drums
+------------ | -------------
+![An old guitar video](https://i.ytimg.com/vi/ac0aDCcUO94/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB7yiy5iPeIEQBwcE-Wc74ZKwfstg) | ![My Drums ain't much better either](https://i.ytimg.com/vi/dsTagAHo3T4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBvsGZZqxbqf0FpvvkFKktW8ed7yQ)
+[Video](https://www.youtube.com/watch?v=ac0aDCcUO94) | [Video](https://www.youtube.com/watch?v=dsTagAHo3T4&t=9s)
+
 
 </details>.
 
