@@ -14,6 +14,9 @@
 + [ Minority Report : Crime Rate Prediction using Neighborhood and Census Information](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Minority%20Report.pdf " Minority Report : Crime rate prediction using neighborhood and census information")
 + [Stage-wise Non-uniform Regularization for Cascade Classifiers](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Stage-wise%20Non-uniform%20Regularization%20for%20Cascade.pdf "Stage-wise Non-uniform Regularization for Cascade Classifiers")
 + [Utilizing SLAM and Adaptive Gripping Techniques for Material Handling Systems](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Utilizing%20SLAM%20and%20Adaptive%20Gripping%20Techniques%20for%20Material%20Handling%20Systems.pdf "Utilizing SLAM and Adaptive Gripping Techniques for Material Handling Systems")
++ [a distributed MapReduce-esque fault tolerant Master & Slave framework from scratch in Java](https://github.com/AnishPimpley/Word_Count_with_MapReduce "Word_Count_with_MapReduce")
++ [Pregel like parallel graph analytics framework from scratch for PageRank in Java](https://github.com/AnishPimpley/PageRank_with_Pregel "PageRank_with_Pregel")
+
 
 ## Other
 
