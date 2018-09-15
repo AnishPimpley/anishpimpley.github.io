@@ -33,7 +33,15 @@ The goal is to preserve facial landmarks
 The base face model is input as the initial state of the LSTM and the audio signal for a particular time interval is fed at each timestep.
 
 ###### Video comparison of Ground Truth vs Prediction :
-![Video Demonstration](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/audio2Face.gif)
+![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif)
+
+## Skill Map 
+
+A genereric map of areas in Computer Science that I have worked with. For detailed information see resume.       
+The purpose of this graph is to provide quick visual intuition for what my profile looks like.
+Also visualizations are nice to look at.
+
+![Skill Map](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/Skill%20Map%20of%20Competencies.png)
 
 ## Misc
 
