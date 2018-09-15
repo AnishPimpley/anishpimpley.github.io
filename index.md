@@ -24,8 +24,16 @@
 We convert rough hand drawn images of full simulink diagrams and convert them to full working Simulink models in machine. I worked on the exraction, detection and classification part of the pipeline.      
 We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model and used classical vision, topological, density and connectivity properties to extract the graphical structure and flow from the image.
 
-###### A sneak peek :
+###### Video Demonstration of the extraction & classification process :
 ![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif)
+
+#### Convert Audio files to Video of person speaking
+We use an LSTM to take an audio file as input and generate a video of a person speaking in sync with the audio file.
+The goal is to preserve facial landmarks 
+The base face model is input as the initial state of the LSTM and the audio signal for a particular time interval is fed at each timestep.
+
+###### Video comparison of Ground Truth vs Prediction :
+![Video Demonstration](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/audio2Face.gif)
 
 ## Misc
 
