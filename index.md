@@ -37,7 +37,7 @@ The goal is to preserve facial landmarks
 The base face model is input as the initial state of the LSTM and the audio signal for a particular time interval is fed at each timestep.
 
 ###### Video comparison of Ground Truth vs Prediction :
-![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif)
+![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif?ver=123)
 
 ## Skill Map 
 
