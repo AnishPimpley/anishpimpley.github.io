@@ -17,6 +17,10 @@
 + [A distributed MapReduce-esque fault tolerant Master & Slave framework from scratch in Java](https://github.com/AnishPimpley/Word_Count_with_MapReduce "Word_Count_with_MapReduce")
 + [Pregel like parallel graph analytics framework from scratch for PageRank in Java](https://github.com/AnishPimpley/PageRank_with_Pregel "PageRank_with_Pregel")
 
+#### Associated posters
+
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/cascade-poster.png" alt="Cascade Classifiers" width="410"/>  <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/maluuba-poster.png" alt="Maluuba poster" width="440"/>
+
 
 ## Other
 
