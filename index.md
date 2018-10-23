@@ -19,7 +19,7 @@
 
 #### Associated posters
 
-<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_cascade_resized.jpg" alt="Cascade Classifiers" width="400"/>  <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_maluuba_resized.jpg" alt="Maluuba poster" width="430"/>
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_cascade_resized.jpg" alt="Cascade Classifiers" width="390"/>  <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_maluuba_resized.jpg" alt="Maluuba poster" width="420"/>
 
 
 ## Other
