@@ -1,4 +1,4 @@
-[Github Profile](https://github.com/AnishPimpley) | [Resume](https://anishpimpley.github.io/media/resume_sept_18.pdf) | [Linkedin](https://www.linkedin.com/in/anishpimpley/).
+[Github Profile](https://github.com/AnishPimpley) | [Resume](https://anishpimpley.github.io/media/resume_Anish_Dec%202018.pdf) | [Linkedin](https://www.linkedin.com/in/anishpimpley/).
 
 # About me
 
