@@ -2,9 +2,9 @@
 
 # About me
 
-> I am a 2nd year masters student in Computer Science at UMass Amherst with ~2 years of prior industry experience. 
+> I am an Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](https://blogs.microsoft.com/newengland/2018/09/26/microsoft-ai-development-acceleration/)). 
 >
-> I work on problems in the broad area of Machine Learning and related fields. I am however, keenly interested in the Deep Learning and Computer Vision sub-domains.
+> I work on problems in the broad area of Machine Learning. I am however, keenly interested in deep learning and multi-modal data source problems scenarios. 
 
 ## Major Projects 
 
@@ -57,5 +57,5 @@ I am fascinated by all sorts of meta information, which doesn't help my case of 
 
 
 ```
-Contact me : apimpley.cs.umass.edu
+Contact me : anishpimpleyumass@gmail.com
 ```
