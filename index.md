@@ -53,7 +53,7 @@ Also visualizations are nice to look at.
 I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.    
 I am fascinated by all sorts of meta information, which doesn't help my case of going down random internet rabbit holes.
 
-### [Hobbies & Media](./media.html).
+### [Hobbies & Media](./media.html)
 
 
 ```
