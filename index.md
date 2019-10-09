@@ -2,14 +2,14 @@
 
 # About me
 
-> I am an Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](https://blogs.microsoft.com/newengland/2018/09/26/microsoft-ai-development-acceleration/)). 
+> I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](https://blogs.microsoft.com/newengland/2018/09/26/microsoft-ai-development-acceleration/)). 
 >
 > I work on problems in the broad area of Machine Learning and Data Science. I am however, keenly interested in deep learning and multi-modal data source problems scenarios. 
 
 ## Major Projects 
 
 + [Visual Question Answering for Relational Reasoning ](https://anishpimpley.github.io/media/maluuba-figureqa-visual.pdf "Visual Question Answering for Relational Reasoning")
-+ [Implementing Deeplab v3+ in production for Matlab](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html)
++ [Implementing Deeplab v3+ in production for Matlab.](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html) Feature [[page]](https://www.mathworks.com/help/vision/ref/deeplabv3pluslayers.html#d117e118028)
 + [ A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/A%20Review%20of%20Multi-Modal%20Emotion%20Recognition.pdf " A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing")
 + [Exploring Sophisticated Loss Functions for Early Prediction in Cascaded CNNs](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Exploring%20Sophisticated%20Loss%20Functions%20for%20Early.pdf "Exploring Sophisticated Loss Functions for Early Prediction in Cascaded CNNs")
 + [ Minority Report : Crime Rate Prediction using Neighborhood and Census Information](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Minority%20Report.pdf " Minority Report : Crime rate prediction using neighborhood and census information")
@@ -53,7 +53,7 @@ Also visualizations are nice to look at.
 I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.    
 I am fascinated by all sorts of meta information, which doesn't help my case of going down random internet rabbit holes.
 
-[Hobbies media page](./media.html).
+### [Hobbies & Media](./media.html).
 
 
 ```
