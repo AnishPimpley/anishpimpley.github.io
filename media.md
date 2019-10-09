@@ -1,4 +1,9 @@
 
+# In the Media
+[UMass newletter on me getting the Microsoft job](https://ds.cs.umass.edu/news/cds-helps-companies-hire-data-science-talent)
+
+
+
 # Hobbies
 
 ### My best cooked meals yet
