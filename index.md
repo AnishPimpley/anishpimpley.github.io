@@ -2,7 +2,7 @@
 
 # About me
 
-> I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](https://blogs.microsoft.com/newengland/2018/09/26/microsoft-ai-development-acceleration/)). 
+> I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](https://github.com/AnishPimpley/anishpimpley.github.io)). 
 >
 > I work on problems in the broad area of Machine Learning and Data Science. I am however, keenly interested in deep learning and multi-modal data source problems scenarios. 
 
