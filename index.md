@@ -8,8 +8,11 @@
 
 ## Major Projects 
 
++ [Interpret Text - Open source tool for State-of-the-art text-based model explanations and visualizations](https://github.com/interpretml/interpret-text-contrib)
+_____
 + [Visual Question Answering for Relational Reasoning ](https://anishpimpley.github.io/media/maluuba-figureqa-visual.pdf "Visual Question Answering for Relational Reasoning")
 + [Implementing Deeplab v3+ in production for Matlab.](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html) Feature [[page]](https://www.mathworks.com/help/vision/ref/deeplabv3pluslayers.html#d117e118028)
+_____
 + [ A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/A%20Review%20of%20Multi-Modal%20Emotion%20Recognition.pdf " A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing")
 + [Exploring Sophisticated Loss Functions for Early Prediction in Cascaded CNNs](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Exploring%20Sophisticated%20Loss%20Functions%20for%20Early.pdf "Exploring Sophisticated Loss Functions for Early Prediction in Cascaded CNNs")
 + [ Minority Report : Crime Rate Prediction using Neighborhood and Census Information](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Minority%20Report.pdf " Minority Report : Crime rate prediction using neighborhood and census information")
