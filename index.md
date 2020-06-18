@@ -8,10 +8,12 @@
 > Deep learning and multi-modal data source problems scenarios are of particular interest to me. Recently, I have also found myself interested in AI interpretability and ML for graphs.
 
 ## Major Projects 
+
 ### Industry
 + [Interpret Text - Open-source tool for State-of-the-Art text-based Model Explanations](https://github.com/interpretml/interpret-text-contrib)
 + [Adding support for XLNET in MSFT's core NLP repository](https://github.com/microsoft/nlp-recipes/tree/master/utils_nlp/models/xlnet)
 + [Implementing Deeplab v3+ in Production for Matlab.](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html) Feature [[page]](https://www.mathworks.com/help/vision/ref/deeplabv3pluslayers.html#d117e118028)
+
 ### Academia
 + [Visual Question Answering for Relational Reasoning](https://anishpimpley.github.io/media/maluuba-figureqa-visual.pdf "Visual Question Answering for Relational Reasoning")
 + [ A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/A%20Review%20of%20Multi-Modal%20Emotion%20Recognition.pdf " A Review of Multi-Modal Emotion Recognition Approaches for Affective Computing")
@@ -24,7 +26,7 @@
 
 #### Associated posters
 
-<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_cascade_resized.jpg" alt="Cascade Classifiers" width="390"/>  <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_maluuba_resized.jpg" alt="Maluuba poster" width="420"/>
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_cascade_resized.jpg" alt="Cascade Classifiers" width="390"/>  <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_maluuba_resized.jpg" alt="Maluuba poster" width="415"/>
 
 
 ## Other
