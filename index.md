@@ -1,5 +1,7 @@
 [Github Profile](https://github.com/AnishPimpley) | [Resume(Outdated)](https://anishpimpley.github.io/media/resume_Anish_Dec%202018.pdf) | [Linkedin](https://www.linkedin.com/in/anishpimpley/).
 
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/profile_photo.jpg" alt="profile photo" width="1080"/>
+
 # About me
 
 > I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
