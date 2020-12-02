@@ -7,7 +7,7 @@
 > I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
 >
 > I work on problems in the broad area of Machine Learning and Data Science. 
-> Deep learning and multi-modal data source problems scenarios are of particular interest to me. Recently, I have also found myself interested in AI interpretability and ML for graphs.
+> Deep learning and multi-modal data source problems scenarios are of particular interest to me. Recently, I have also found myself interested in AI interpretability and ML for systems.
 
 ## Major Projects 
 
