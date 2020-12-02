@@ -8,7 +8,7 @@
 # Hobbies
 
 ### My best cooked meals yet
-![My best cooked meals yet](https://anishpimpley.github.io/media/cooking_2020.jpg)     
+![My best cooked meals yet](https://anishpimpley.github.io/media/cooking_2020.png)     
 More food here - [Insta](https://www.instagram.com/anishpimpley/) ; 
 Detailed recipes here - [Repo](https://github.com/AnishPimpley/Fat_is_flavor)
 ### Kayaking with friends
