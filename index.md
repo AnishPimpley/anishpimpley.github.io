@@ -12,7 +12,7 @@
 ## Major Projects 
 
 ### Publications
-+ [CMAI - 2020] [Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter](https://arxiv.org/abs/2010.06734)
++ [CMAI - 2020] [Evaluating Tree Explanation Methods for Anomaly Reasoning](https://arxiv.org/abs/2010.06734)
 
 ### Industry
 + [Interpret Text - Open-source tool for State-of-the-Art text-based Model Explanations](https://github.com/interpretml/interpret-text-contrib)
