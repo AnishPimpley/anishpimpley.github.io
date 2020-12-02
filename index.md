@@ -11,6 +11,9 @@
 
 ## Major Projects 
 
+### Publications
++ [Evaluating Tree Explanation Methods for Anomaly Reasoning: A Case Study of SHAP TreeExplainer and TreeInterpreter](https://arxiv.org/abs/2010.06734)
+
 ### Industry
 + [Interpret Text - Open-source tool for State-of-the-Art text-based Model Explanations](https://github.com/interpretml/interpret-text-contrib)
 + [Adding support for XLNET in MSFT's core NLP repository](https://github.com/microsoft/nlp-recipes/tree/master/utils_nlp/models/xlnet)
