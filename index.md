@@ -6,8 +6,7 @@
 
 > I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
 >
-> I work on problems in the broad area of Machine Learning and Data Science. 
-> Deep learning and multi-modal data source problems scenarios are of particular interest to me. Recently, I have also found myself interested in AI interpretability and ML for systems.
+> I work on problems in the broad area of Deep Learning. My previous work spans NLP, Vision, Interpretability and ML for Systems. 
 
 ## Major Projects 
 
@@ -51,12 +50,10 @@ The base face model is input as the initial state of the LSTM and the audio sign
 ###### Video comparison of Ground Truth vs Prediction :
 ![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif)
 
-## Skill Map 
-
+<!--## Skill Map 
 A genereric map of areas in Computer Science that I have worked with. For detailed information see resume.       
 The purpose of this graph is to provide quick visual intuition for what my profile looks like.
 Also visualizations are nice to look at.
-
 ![Skill Map](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/Skill%20Map%20of%20Competencies.png)
 
 ## Misc
