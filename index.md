@@ -54,11 +54,12 @@ The base face model is input as the initial state of the LSTM and the audio sign
 A genereric map of areas in Computer Science that I have worked with. For detailed information see resume.       
 The purpose of this graph is to provide quick visual intuition for what my profile looks like.
 Also visualizations are nice to look at.
-![Skill Map](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/Skill%20Map%20of%20Competencies.png)
+![Skill Map](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/Skill%20Map%20of%20Competencies.png)-->
 
 ## Misc
 
-I spend most of my leisure time cooking, trying new cuisines or watching cooking videos. On other occasions, I am not-so-successfully trying to improve my guitar skills and looking for excuses to go kayaking.    
+I spend most of my leisure time cooking, learning music instruments and climbing (with varying degree of success.                     
+I love ranting about terrible urban design and discussing geo-politics.               
 I am fascinated by all sorts of meta information, which doesn't help my case of going down random internet rabbit holes.
 
 ### [Hobbies & Media](./media.html)
