@@ -15,7 +15,7 @@ Detailed recipes here - [Repo](https://github.com/AnishPimpley/Fat_is_flavor)
 ![My tame kayaking adventures](https://anishpimpley.github.io/media/Kayaking.jpg)
 
   
- Shitty guitar | Shitty Drums
+ Meh guitar | Meh Drums
 ------------ | -------------
 ![An old guitar video](https://i.ytimg.com/vi/ac0aDCcUO94/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLB7yiy5iPeIEQBwcE-Wc74ZKwfstg?size=200) | ![My Drums ain't much better either](https://i.ytimg.com/vi/dsTagAHo3T4/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBvsGZZqxbqf0FpvvkFKktW8ed7yQ?size=200)
 [Video](https://www.youtube.com/watch?v=ac0aDCcUO94) | [Video](https://www.youtube.com/watch?v=dsTagAHo3T4&t=9s)
