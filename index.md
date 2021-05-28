@@ -17,7 +17,7 @@
 + [Interpret Text - Open-source tool for State-of-the-Art text-based Model Explanations](https://github.com/interpretml/interpret-text-contrib)
 + [Adding support for XLNET in MSFT's core NLP repository](https://github.com/microsoft/nlp-recipes/tree/master/utils_nlp/models/xlnet)
 + [Implementing Deeplab v3+ in Production for Matlab.](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html) Feature [[page]](https://www.mathworks.com/help/vision/ref/deeplabv3pluslayers.html#d117e118028)
-+ [TASQ - Predicting runtime characteristics to identify optimal parallelism vs cost tradeoffs @ Data+AI summit](https://databricks.com/session_na21/predicting-optimal-parallelism-for-data-analytics)
++ [TASQ - Predicting runtime characteristics for optimal parallelism vs cost tradeoffs @ D+AI summit'21](https://databricks.com/session_na21/predicting-optimal-parallelism-for-data-analytics)
 
 #### Hand-drawn images to Simulink programs
 We convert rough hand drawn images of full simulink diagrams and convert them to full working Simulink models in machine. I worked on the exraction, detection and classification part of the pipeline.      
