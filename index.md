@@ -4,7 +4,8 @@
 
 # About me
 
-> I am a Data Scientist at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
+> I'm a Data Scientist working on AI Commerical Engineering efforts at Microsoft Azure. 
+> Previously at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
 >
 > I work on problems in the broad area of Deep Learning and ML. My previous work spans NLP, Vision, Interpretability and ML for Systems. 
 
