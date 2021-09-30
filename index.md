@@ -4,7 +4,7 @@
 
 # About me
 
-> I'm a Data Scientist working on AI Commerical Engineering efforts at Microsoft Azure. 
+> I'm a Data Scientist II working on rapid prototyping and envisioning future ML products for Microsoft's AI platform. 
 > Previously at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
 >
 > I work on problems in the broad area of Deep Learning and ML. My previous work spans NLP, Vision, Interpretability and ML for Systems. 
@@ -43,7 +43,7 @@ Also visualizations are nice to look at.
 
 ## Misc
 
-I spend most of my leisure time cooking, learning music instruments and climbing (with varying degree of success.                     
+I spend most of my leisure time cooking, learning musical instruments and climbing (with varying degree of success).                     
 I love ranting about terrible urban design and discussing geo-politics.               
 I am fascinated by all sorts of meta information, which doesn't help my case of going down random internet rabbit holes.
 
