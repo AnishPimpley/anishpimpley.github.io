@@ -4,7 +4,7 @@
 
 # About me
 
-> I'm a Data Scientist II working on rapid prototyping and envisioning future ML products for Microsoft's AI platform. 
+> I'm a Data Scientist II working on rapid prototyping and envisioning future ML products for Microsoft's AI platform.  
 > Previously at Microsoft's AI Development Acceleration Program ([MAIDAP](http://www.microsoftnewengland.com/nerd-ai/)). 
 >
 > I work on problems in the broad area of Deep Learning and ML. My previous work spans NLP, Vision, Interpretability and ML for Systems. 
@@ -16,6 +16,7 @@
 + [Pre-Print] [Optimal Resource Allocation for Serverless Queries](https://arxiv.org/abs/2107.08594) [D+AI Summit'21](https://databricks.com/session_na21/predicting-optimal-parallelism-for-data-analytics)
 
 ### Industry
++ [Built zero shot GPT3 blog generation tool for Satya's demo at Microsoft Ignite](https://blogs.microsoft.com/ai/new-azure-openai-service/?fbclid=IwAR2PN8geJoB1UCeh3GtGOpyWCjTwdWhrleAG-qkCdt-C4Z1jJgpYCbcEiVQ)
 + [Interpret Text - Open-source tool for State-of-the-Art text-based Model Explanations](https://github.com/interpretml/interpret-text-contrib)
 + [Adding support for XLNET in MSFT's core NLP repository](https://github.com/microsoft/nlp-recipes/tree/master/utils_nlp/models/xlnet)
 + [Implementing Deeplab v3+ in Production for Matlab.](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html) Feature [[page]](https://www.mathworks.com/help/vision/ref/deeplabv3pluslayers.html#d117e118028)
