@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Anish Pimpley's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Anish Pimpley's website
-
-WORK IN PROGRESS
+Work in progress
 =====
+
+Keywords:
+======
+GPT-3, Large Language Models, Chatbots, GNNs, Interpretability, Deep Learning
 
 About me:
 ======
-I’m an Applied Scientist II working on rapid prototyping and envisioning future ML products for Microsoft’s AI platform & Cognitive services.               
-Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.                  
+I’m an Applied Scientist II working on rapid prototyping and envisioning future ML products for Microsoft’s AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.                  
 My current work focuses on massive language models, dataset creation and solving open real-world problems in the abstractive-NLP domain.               
 Over the years, my has work spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on substaintial projects in the domains of Vision, Interpretability and ML for Systems.
 
-Past-year Highlights:
+Past-year's Highlights:
 =====
 
 **GPT-3 Satya Ignite Keynote** - Our work on using GPT-3 for summarization and content generation was featured as one 2 demos in Satya's 2021 Ignite demo.
@@ -29,13 +30,21 @@ Past-year Highlights:
 
 Summary:
 =====
-#### Professional
+
+### Publications
+* EDBT 2022 - Towards Optimal Resource Allocation for Big Data Analytics
+* ER 2020 - A Case Study of SHAP TreeExplainer and TreeInterpreter
+* US Patent - Optimizing job runtimes via prediction--based token allocation
+* US Patent app. - Intelligent table suggestion and conversion for text 
+
+### Professional
 * Applied Scientist at Microsoft for 3 years
 * Deep Learning intern - Computer Vision at Mathworks for 8 months
 * ML Engineer at SenseHawk for 6 months
 * Executive Engineer - Data Analytics at Honda for 6 months 
-#### Academic
-* MS in CS at UMassAmherst
+
+### Academic
+* MS in CS at UMass Amherst
 
 Misc:
 =====

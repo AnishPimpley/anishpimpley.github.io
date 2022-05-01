@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anish Pimpley"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Applied Scientist at Microsoft, Large Language Models and NLP solutions"
   location         : "USA"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        : "https://www.instagram.com/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/anishpimpley/"
+  linkedin         : "anishpimpley"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
