@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Anish Pimpley's Personal Website"
+title: "Anish Pimpley"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-youtubeId1: t1PAGcP9lhc
+youtubeId1: uwSTuFKf4&start=815
 youtubeId2: QE9vT0zaZdU
 ---
-
-Work in progress
-=====
 
 Keywords:
 ======
