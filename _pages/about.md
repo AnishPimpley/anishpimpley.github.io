@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-youtubeId1: uwSTuFKf4?start=815&end=999
+youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
@@ -23,12 +23,12 @@ Over the years, my has work spanned the breadth of problems in the areas of Deep
 Past-year's Highlights:
 =====
 
-**GPT-3 Satya Ignite Keynote** - Our work on using GPT-3 for summarization and content generation was featured as one 2 demos in Satya's 2021 Ignite demo. 
+**Satya Nadella's GPT-3 Ignite Keynote** - Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote. 
 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
-**Optimal Resource Allocation for Big Data workloads** -  Our work on petabyte scale resource use prediction from query computational graphs was published in EDBT 2022 with associated patent. 
+**Optimal Resource Allocation for Big Data workloads** -  Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
