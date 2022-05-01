@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-youtubeId1: uwSTuFKf4&start=815
+youtubeId1: uwSTuFKf4?start=815&end=999
 youtubeId2: QE9vT0zaZdU
 ---
 
