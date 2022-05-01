@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+youtubeId1: t1PAGcP9lhc
+youtubeId2: QE9vT0zaZdU
 ---
 
 Work in progress
@@ -24,9 +26,15 @@ Over the years, my has work spanned the breadth of problems in the areas of Deep
 Past-year's Highlights:
 =====
 
-**GPT-3 Satya Ignite Keynote** - Our work on using GPT-3 for summarization and content generation was featured as one 2 demos in Satya's 2021 Ignite demo.
+**GPT-3 Satya Ignite Keynote** - Our work on using GPT-3 for summarization and content generation was featured as one 2 demos in Satya's 2021 Ignite demo. 
+
+{% include youtubePlayer.html id=page.youtubeId1 %}
+
 
 **Optimal Resource Allocation for Big Data workloads** -  Our work on petabyte scale resource use prediction from query computational graphs was published in EDBT 2022 with associated patent. 
+
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
 
 Professional Summary:
 =====
