@@ -12,24 +12,25 @@ youtubeId2: QE9vT0zaZdU
 
 Keywords:
 ======
-GPT-3, Large Language Models, Chatbots, GNNs, Interpretability, Deep Learning, VQA, Transformers
+GPT-3, Large Language Models, Chatbots, Transformers                      
+GNNs, Interpretability, Deep Learning, VQA
 
 About Me:
 ======
-I’m an Applied Scientist II working on rapid prototyping and envisioning future ML products for Microsoft’s AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.                  
-My current work focuses on massive language models, dataset creation and solving open real-world problems in the abstractive-NLP domain.               
-Over the years, my has work spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on substaintial projects in the domains of Vision, Interpretability and ML for Systems.
+I’m an Applied Scientist II with Microsoft AI platform. I work on rapid prototyping and envisioning future ML products for AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.                  
+My current work focuses on large language models like GPT-3 and solving open real-world problems in the abstractive-NLP domain.               
+Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on substaintial projects in the domains of Vision, Interpretability and ML for Systems.
 
 Past-year's Highlights:
 =====
 
-**Satya Nadella's GPT-3 Ignite Keynote** - Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote. 
-
+### Satya Nadella's GPT-3 Ignite Keynote           
+Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote. 
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
-**Optimal Resource Allocation for Big Data workloads** -  Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
-
+### Optimal Resource Allocation for Big Data workloads
+Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 
@@ -37,9 +38,9 @@ Professional Summary:
 =====
 
 ### Publications
-* EDBT 2022 - Towards Optimal Resource Allocation for Big Data Analytics
-* ER 2020 - A Case Study of SHAP TreeExplainer and TreeInterpreter
-* US Patent - Optimizing job runtimes via prediction--based token allocation
+* [EDBT 2022](https://openproceedings.org/2022/conf/edbt/paper-78.pdf) - Towards Optimal Resource Allocation for Big Data Analytics
+* [ER 2020](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_4) - Evaluating Tree Explanation Methods for Anomaly Reasoning
+* [US Patent](https://www.freepatentsonline.com/y2022/0100763.html) - Optimizing job runtimes via prediction--based token allocation
 * US Patent app. - Intelligent table suggestion and conversion for text 
 
 ### Professional
