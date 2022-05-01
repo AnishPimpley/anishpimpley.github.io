@@ -13,9 +13,9 @@ Work in progress
 
 Keywords:
 ======
-GPT-3, Large Language Models, Chatbots, GNNs, Interpretability, Deep Learning
+GPT-3, Large Language Models, Chatbots, GNNs, Interpretability, Deep Learning, VQA, Transformers
 
-About me:
+About Me:
 ======
 I’m an Applied Scientist II working on rapid prototyping and envisioning future ML products for Microsoft’s AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.                  
 My current work focuses on massive language models, dataset creation and solving open real-world problems in the abstractive-NLP domain.               
@@ -28,7 +28,7 @@ Past-year's Highlights:
 
 **Optimal Resource Allocation for Big Data workloads** -  Our work on petabyte scale resource use prediction from query computational graphs was published in EDBT 2022 with associated patent. 
 
-Summary:
+Professional Summary:
 =====
 
 ### Publications
