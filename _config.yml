@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anish Pimpley's Personal Website"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Anish Pimpley"
 description              : &description "Applied Scientist at Microsoft"

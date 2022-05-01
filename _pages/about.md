@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anish Pimpley"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,29 +10,27 @@ youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
+I’m an Applied Scientist II with Microsoft AI platform. I work on rapid prototyping and envisioning future ML products for AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.     
+
+My current work focuses on large language models like GPT-3 and solving open real-world problems in the abstractive-NLP domain.               
+
+Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on substaintial projects in the domains of Vision, Interpretability and ML for Systems.
+
 Keywords:
 ======
 GPT-3, Large Language Models, Chatbots, Transformers                      
 GNNs, Interpretability, Deep Learning, VQA
 
-About Me:
-======
-I’m an Applied Scientist II with Microsoft AI platform. I work on rapid prototyping and envisioning future ML products for AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.                  
-My current work focuses on large language models like GPT-3 and solving open real-world problems in the abstractive-NLP domain.               
-Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on substaintial projects in the domains of Vision, Interpretability and ML for Systems.
-
 Past-year's Highlights:
 =====
 
 ### Satya Nadella's GPT-3 Ignite Keynote           
-Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote. 
 {% include youtubePlayer.html id=page.youtubeId1 %}
-
+Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote. 
 
 ### Optimal Resource Allocation for Big Data workloads
-Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
 {% include youtubePlayer.html id=page.youtubeId2 %}
-
+Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
 
 Professional Summary:
 =====
