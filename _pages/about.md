@@ -32,7 +32,8 @@ Our work on using GPT-3 for summarization and content generation for WNBA was fe
 Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
-=====
+<br />
+
 Professional Summary:
 =====
 
