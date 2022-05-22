@@ -14,23 +14,24 @@ I’m an Applied Scientist II with Microsoft AI platform. I work on rapid protot
 
 My current work focuses on large language models like GPT-3 and solving open real-world problems in the abstractive-NLP domain.               
 
-Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on substaintial projects in the domains of Vision, Interpretability and ML for Systems.
+Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on major projects in the domains of Vision, Interpretability and ML for Systems.
 
-Keywords:
-======
+***Keywords***:                
 GPT-3, Large Language Models, Chatbots, Transformers                      
 GNNs, Interpretability, Deep Learning, VQA
 
 Past-year's Highlights:
 =====
 
-### Satya Nadella's GPT-3 Ignite Keynote           
+### Satya Nadella's GPT-3 Ignite Keynote      
+Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote.      
 {% include youtubePlayer.html id=page.youtubeId1 %}
-Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote. 
+
 
 ### Optimal Resource Allocation for Big Data workloads
-{% include youtubePlayer.html id=page.youtubeId2 %}
 Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
+{% include youtubePlayer.html id=page.youtubeId2 %}
+
 
 Professional Summary:
 =====
@@ -41,13 +42,13 @@ Professional Summary:
 * [US Patent](https://www.freepatentsonline.com/y2022/0100763.html) - Optimizing job runtimes via prediction--based token allocation
 * US Patent app. - Intelligent table suggestion and conversion for text 
 
-### Professional
+### Experience
 * Applied Scientist at Microsoft for 3 years
 * Deep Learning intern - Computer Vision at Mathworks for 8 months
 * ML Engineer at SenseHawk for 6 months
 * Executive Engineer - Data Analytics at Honda for 6 months 
 
-### Academic
+### Education
 * MS in CS at UMass Amherst
 
 Misc:
