@@ -10,7 +10,7 @@ youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
-I’m an Applied Scientist II with Microsoft AI platform. I work on rapid prototyping and envisioning future ML products for AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program (MAIDAP) at the Office of Applied Research.     
+I’m an Applied Scientist II with Microsoft AI platform. I work on POCs and envisioning future ML products for AI platform & Cognitive services. Previously at Microsoft’s AI Development Acceleration Program ([MAIDAP](https://www.microsoftnewengland.com/maidap/)) at the Office of Applied Research.     
 
 My current work focuses on large language models like GPT-3 and solving open real-world problems in the abstractive-NLP domain.               
 
@@ -32,7 +32,7 @@ Our work on using GPT-3 for summarization and content generation for WNBA was fe
 Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
-
+=====
 Professional Summary:
 =====
 
