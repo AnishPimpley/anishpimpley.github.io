@@ -36,16 +36,21 @@ Implemented & architected one of the first general purpose toolkits for architec
 We propose a new approach to building cascaded classifiers in computation sensitive, low power environments. We extend the firm cascade architecture by introducing non-uniform stage-wise regression terms into the loss function. We introduce a modification over the L1 regularizer, tuned to encourage sparse connections. We evaluate the effects of such a regularizer on use cases with imbalanced classes such as human activity recognition and smoking detection.
 *keywords : Computer Vision, Deep Learning*
 
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/poster_cascade_resized.jpg" alt="cascade cls demo" width="800"/>
+
 ### Hand-drawn images to Simulink programs
 We convert rough hand drawn images of full simulink diagrams and convert them to full working Simulink models in machine. I worked on the exraction, detection and classification part of the pipeline.      
 We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model and used classical vision, topological, density and connectivity properties to extract the graphical structure and flow from the image.
 
-![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif)
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif" alt="img2struct demo" width="800"/>
 
 ### Convert Audio files to Video of person speaking
 We use an LSTM to take an audio file as input and generate a video of a person speaking in sync with the audio file.
 The goal is to preserve facial landmarks 
 The base face model is input as the initial state of the LSTM and the audio signal for a particular time interval is fed at each timestep.
 
-![Video Demonstration](https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif)
+<img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif" alt="text2video demo" width="800"/>
+
+### Bachelors thesis - Design and Fabrication of SLAM based, autonomous material handling robot          
+<img src="https://i.imgur.com/RL5ANVj.png" alt="robot simulation" width="800"/>
 
