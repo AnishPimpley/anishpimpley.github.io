@@ -8,7 +8,7 @@ youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
-# Industry (public)
+Industry (public)
 ======
 
 ### 1. GPT3 blog generation tool for Satya's demo at Microsoft Ignite 
@@ -31,10 +31,11 @@ Implemented & architected one of the first general purpose toolkits for architec
 [link](https://www.mathworks.com/help/vision/examples/semantic-segmentation-using-deep-learning.html) ; [Feature page](https://www.mathworks.com/help/vision/ref/deeplabv3pluslayers.html#d117e118028)               
 *keywords : Computer Vision, Deep Learning*
 
-# Academia
+Academia
 ======
 
 ### 1. Stagewise non-uniform regularization for Cascade classifiers
+[link](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Stage-wise%20Non-uniform%20Regularization%20for%20Cascade.pdf)                 
 *keywords : ML for Healthcare, ML on edge/IOT devices*   
 
 We propose a new approach to building cascaded classifiers in computation sensitive, low power environments. We extend the firm cascade architecture by introducing non-uniform stage-wise regression terms into the loss function. We introduce a modification over the L1 regularizer, tuned to encourage sparse connections. We evaluate the effects of such a regularizer on use cases with imbalanced classes such as human activity recognition and smoking detection.
@@ -49,7 +50,7 @@ We made a custom dataset, finetuned an imagenet pretrained GoogLeNet based model
 
 <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/doodle%20to%20simulink.gif" alt="img2struct demo" width="400"/>
 
-### Convert Audio files to Video of person speaking
+### 3. Convert Audio files to Video of person speaking
 *keywords : Deeplearning, Vision, Multi-modal ML*   
 
 We use an LSTM to take an audio file as input and generate a video of a person speaking in sync with the audio file.
@@ -58,7 +59,17 @@ The base face model is input as the initial state of the LSTM and the audio sign
 
 <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/audio2Face.gif" alt="text2video demo" width="400"/>
 
-### 4. Design and Fabrication of SLAM based, autonomous material handling robot     
+### 4. Exploring Sophisticated Loss Functions for Early Prediction in CNNS: 
+[link](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Exploring%20Sophisticated%20Loss%20Functions%20for%20Early.pdf)        
+*keywords : Deeplearning, Vision, Compute-aware ML*   
+
+We investigate the effects of using sophisticated cascade loss functions on early predictions in image classification tasks. We apply methods native to cascade classifiers, to guide the learning of Convolutional Neural Networks. We approach the problem by trying to identify the depth and if to place an intermediate classifier in a CNN pipeline, so as to achieve a better accuracy-cost trade-off. We use a modified AlexNet as the base model. We also extend the soft cascade and firm cascade loss functions to the multi-label case using each for training the model.
+
+### 5. Predicting Neighborhoods most affected by Crime using Infrastructure and Economic Indicators: 
+[link](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Minority%20Report.pdf)        
+*keywords : Computational Social Science, Dataset creation*   
+
+### 6. Design and Fabrication of SLAM based, autonomous material handling robot     
 [link](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Utilizing%20SLAM%20and%20Adaptive%20Gripping%20Techniques%20for%20Material%20Handling%20Systems.pdf)           
 *keywords : Vision, Robotics*                
 
