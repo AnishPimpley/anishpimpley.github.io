@@ -69,6 +69,14 @@ We investigate the effects of using sophisticated cascade loss functions on earl
 [link](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Minority%20Report.pdf)        
 *keywords : Computational Social Science, Dataset creation*   
 
+We propose a novel approach to predict crime for neighborhoods in a city from
+multiple sources, in particular nearby landmarks, census and demographic data. Many prior studies
+have tried to predict crime based on demographic and socio-economic data, but there has been no
+prior work on prediction of crime based on landmarks data. We were able to successfully show that
+local infrastructure data plays a more important role in predicting crime incidents. We also showed
+the importance of different features on crime rate. We were able to confirm the results of prior
+studies related to correlation between crime, and schools and banks.
+
 ### 6. Design and Fabrication of SLAM based, autonomous material handling robot     
 [link](https://github.com/AnishPimpley/anishpimpley.github.io/blob/master/media/Utilizing%20SLAM%20and%20Adaptive%20Gripping%20Techniques%20for%20Material%20Handling%20Systems.pdf)           
 *keywords : Vision, Robotics*                
