@@ -4,8 +4,6 @@ title: "Projects title"
 excerpt: "Prjects except"
 author_profile: true
 redirect_from: 
-  - /projects/
-  - /projects.html
 youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---

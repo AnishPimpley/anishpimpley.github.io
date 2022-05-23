@@ -4,8 +4,6 @@ title: "Publications"
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /publications/
-  - /publications.html
 youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
