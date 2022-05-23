@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -9,6 +9,7 @@ youtubeId2: QE9vT0zaZdU
 ---
 
 # Publications
+======
 
 ## Towards Optimal Resource Allocation for Big Data Analytics
 *EDBT 2022; [Link](https://openproceedings.org/2022/conf/edbt/paper-78.pdf)*    
@@ -25,14 +26,16 @@ We investigate the performance of two methods for explaining tree-based models: 
 <img src="https://raw.githubusercontent.com/AnishPimpley/anishpimpley.github.io/master/media/cmai_poster.png" alt="model arch explainer" width="800"/>
 
 # US Patents
+======
 
 ## Optimizing job runtimes via prediction-based token alloc ation
 *Patent approved - 2022-03-31 [link](https://patents.google.com/patent/US20220100763A1/en)*
 
 ## Intelligent table suggestion and conversion for text
-*Patent applied - 2021-12-01
+*Patent applied - 2021-12-01*
 
 # Pre-Prints
+======
 
 ## Maluuba FigureQA - Visual Question Answering for Relational Reasoning
 *Pre-Print 2018; [link](https://gshruti95.github.io/VQA.pdf)*          
