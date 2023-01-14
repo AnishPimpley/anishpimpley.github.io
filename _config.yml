@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Anish Pimpley"
-description              : &description "Applied Scientist at Microsoft"
+description              : &description "Founding Applied Scientist"
 url                      : https://anishpimpley.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anishpimpley.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anish Pimpley"
   avatar           : "profile.jpg"
-  bio              : "Applied Scientist at Microsoft, Large Language Models and NLP solutions"
+  bio              : "Founding Applied Scientist"
   location         : "USA"
   employer         :
   pubmed           : 
