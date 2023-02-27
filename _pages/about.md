@@ -10,18 +10,20 @@ youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
-_Trying something new as Founding Applied Scientist at a small shop with big dreams. Stay tuned for updates._
+_Founding member at Typeface.ai_
+
+We are building the future of generative AI for enterprise content generation & personalization.      
+My current work focuses on building products with massively-pretrained models like GPT & SD. 
 
 Previously worked as Applied Scientist II working with Azure OpenAI, Azure Cognitive Services &  Microsoft’s AI Development Acceleration Program ([MAIDAP](https://www.microsoftnewengland.com/maidap/)) at the Office of Applied Research.     
-
-My current work focuses on building products with massively-pretrained models like GPT & SD.                           
+                          
 Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on major projects in the domains of Vision, Interpretability and ML for Systems.
 
 ***Keywords***:                
 GPT-3, Large Language Models, Chatbots, Transformers, Stable Diffusion                      
 GNNs, Interpretability, Deep Learning, VQA
 
-Past-year's Highlights:
+Past Highlights:
 =====
 
 ### Satya Nadella's GPT-3 Ignite Keynote      
