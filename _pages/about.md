@@ -10,7 +10,7 @@ youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
-_Founding member at Typeface.ai_
+_ML at Typeface.ai_
 
 We are building the future of generative AI for enterprise content generation & personalization.      
 My current work focuses on building products with massively-pretrained models like GPT & SD. 
@@ -20,7 +20,7 @@ Previously worked as Applied Scientist II working with Azure OpenAI, Azure Cogni
 Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on major projects in the domains of Vision, Interpretability and ML for Systems.
 
 ***Keywords***:                
-GPT-3, Large Language Models, Chatbots, Transformers, Stable Diffusion                      
+Large Language Models, Chatbots, Transformers, Stable Diffusion                      
 GNNs, Interpretability, Deep Learning, VQA
 
 Past Highlights:
@@ -46,7 +46,7 @@ Professional Summary:
 * [US Patent](https://www.freepatentsonline.com/y2022/0100763.html) - Optimizing job runtimes via prediction--based token allocation
 * US Patent app. - Intelligent table suggestion and conversion for text 
 
-### Experience: _5 yrs_         
+### Experience: _5 yrs_     
 * Applied Scientist II at Microsoft for 3.5 years
 * Deep Learning intern - Computer Vision at Mathworks for 8 months
 * ML Engineer at SenseHawk for 6 months
