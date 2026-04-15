@@ -10,26 +10,23 @@ youtubeId1: oXWCuavGVdg?start=820&end=1006
 youtubeId2: QE9vT0zaZdU
 ---
 
-_ML at Typeface.ai_
+_ML at Rippling_
 
-We are building the future of generative AI for enterprise content generation & personalization.      
-My current work focuses on building products with massively-pretrained models like GPT & SD. 
+Building agent harnesses for [Rippling AI](https://x.com/parkerconrad/status/2044221628343824717).
 
-Previously worked as Applied Scientist II working with Azure OpenAI, Azure Cognitive Services &  Microsoft’s AI Development Acceleration Program ([MAIDAP](https://www.microsoftnewengland.com/maidap/)) at the Office of Applied Research.     
+Previously - Founding Applied Scientist at [Typeface.ai](https://www.typeface.ai/), Applied Scientist II at Azure OpenAI & Microsoft’s AI Development Acceleration Program ([MAIDAP](https://www.microsoftnewengland.com/maidap/)) at the Office of Applied Research.     
                           
 Over the years, my work has spanned the breadth of problems in the areas of Deep Learning and ML. In additition to NLP, I have previously worked on major projects in the domains of Vision, Interpretability and ML for Systems.
-
-***Keywords***:                
-Large Language Models, Chatbots, Transformers, Stable Diffusion                      
-GNNs, Interpretability, Deep Learning, VQA
 
 Past Highlights:
 =====
 
+### [Building Typeface's text-gen stack](https://x.com/typefaceai/status/1630231852463030281) 
+Helped build product from stealth to Unicorn valuation. Built prompt engineering stack, content stylization stack, web-research stack, finetuning flows & agent harnesses for the text-gen product. 
+
 ### Satya Nadella's GPT-3 Ignite Keynote      
 Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote.      
 {% include youtubePlayer.html id=page.youtubeId1 %}
-
 
 ### Optimal Resource Allocation for Big Data workloads
 Our work on petabyte scale resource use prediction from computational graphs was published in EDBT 2022 with associated patent. 
@@ -40,13 +37,14 @@ Our work on petabyte scale resource use prediction from computational graphs was
 Professional Summary:
 =====
 
-### Publications:
+### [Publications](https://scholar.google.com/citations?user=woOpzd8AAAAJ&hl=en):
 * [EDBT 2022](https://openproceedings.org/2022/conf/edbt/paper-78.pdf) - Towards Optimal Resource Allocation for Big Data Analytics
 * [ER 2020](https://link.springer.com/chapter/10.1007/978-3-030-65847-2_4) - Evaluating Tree Explanation Methods for Anomaly Reasoning
 * [US Patent](https://www.freepatentsonline.com/y2022/0100763.html) - Optimizing job runtimes via prediction--based token allocation
 * US Patent app. - Intelligent table suggestion and conversion for text 
 
-### Experience: _5 yrs_     
+### Experience: _5 yrs_
+* Founding Applied Scientist at Typeface for 2.5 years
 * Applied Scientist II at Microsoft for 3.5 years
 * Deep Learning intern - Computer Vision at Mathworks for 8 months
 * ML Engineer at SenseHawk for 6 months
