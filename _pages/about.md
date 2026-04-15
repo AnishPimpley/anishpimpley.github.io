@@ -21,8 +21,8 @@ Over the years, my work has spanned the breadth of problems in the areas of Deep
 Past Highlights:
 =====
 
-### [Building Typeface's text-gen stack](https://x.com/typefaceai/status/1630231852463030281) 
-Helped build product from stealth to Unicorn valuation. Built prompt engineering stack, content stylization stack, web-research stack, finetuning flows & agent harnesses for the text-gen product. 
+### Building Typeface's text-gen stack
+Helped build product from [stealth](https://x.com/typefaceai/status/1630231852463030281) to [Unicorn](https://www.prnewswire.com/news-releases/typeface-announces-100m-in-new-funding-to-fuel-global-expansion-of-its-personalized-generative-ai-platform-for-enterprises-301866644.html) valuation. Built prompt engineering stack, content stylization stack, web-research stack, finetuning flows & agent harnesses for the text-gen product. 
 
 ### Satya Nadella's GPT-3 Ignite Keynote      
 Our work on using GPT-3 for summarization and content generation for WNBA was featured as one of 2 demos in Satya's 2021 Ignite keynote.      
