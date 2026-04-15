@@ -43,7 +43,7 @@ Professional Summary:
 * [US Patent](https://www.freepatentsonline.com/y2022/0100763.html) - Optimizing job runtimes via prediction--based token allocation
 * US Patent app. - Intelligent table suggestion and conversion for text 
 
-### Experience: _5 yrs_
+### Experience: _8 yrs_
 * Founding Applied Scientist at Typeface for 2.5 years
 * Applied Scientist II at Microsoft for 3.5 years
 * Deep Learning intern - Computer Vision at Mathworks for 8 months
